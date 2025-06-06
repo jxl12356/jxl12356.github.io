@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "要做一个有 态度 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://image.baidu.com/search/detail?ct=503316480&z=0&tn=baiduimagedetail&ipn=d&cl=2&cm=1&sc=0&lm=-1&ie=utf8&pn=2&rn=1&di=7498023338351001601&ln=0&word=%E5%9B%BE%E7%89%87%E5%A4%B4%E5%83%8F&os=2596371153%2C1097914529&cs=177583931%2C1589166023&objurl=http%3A%2F%2Fww3.sinaimg.cn%2Fmw690%2F0089kAFBgy1hsv866winxj30sg0sgtb9.jpg&bdtype=0&simid=3228569394%2C3934825962&pi=0&adpicid=0&timingneed=&spn=0&is=0%2C0&lid=14701433244709869568 # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: file:///C:/Users/15898/Downloads/Elf.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
